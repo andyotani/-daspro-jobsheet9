@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ArrayNilai04pertanyaan {
+public class ArrayRataNilai04pertanyaan {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
