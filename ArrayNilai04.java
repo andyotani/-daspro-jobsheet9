@@ -10,7 +10,7 @@ public class ArrayNilai04 {
         }
 
         for(int i = 0; i < 10; i++){
-            System.out.println("Nilai akhir ke-"+ i +"adalah"+nilaiAkhir[i]);
+            System.out.println("Nilai akhir ke-"+ i +" adalah "+nilaiAkhir[i]);
             
         }
     }
